@@ -8,6 +8,8 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { QweComponent } from './qwe/qwe.component';
+import { AidanaChmoComponent } from './aidana-chmo/aidana-chmo.component';
 
 @NgModule({
   imports: [
@@ -22,7 +24,9 @@ import { CarouselComponent } from './carousel/carousel.component';
     TopBarComponent,
     ProductListComponent,
     ProductAlertsComponent,
-    CarouselComponent
+    CarouselComponent,
+    QweComponent,
+    AidanaChmoComponent
   ],
   bootstrap: [
     AppComponent

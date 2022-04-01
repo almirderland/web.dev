@@ -136,6 +136,15 @@ export const products = [
     rating:4.4,
     imageSrc: 'https://m.media-amazon.com/images/I/81u8oHzGLmL._AC_SL1500_.jpg',
     amazonLink: 'https://www.amazon.de/-/en/Samsung-Galaxy-Smartphone-Phantom-Android/dp/B08QX85YKM/ref=sr_1_17?crid=2ZF9UC4U7J8EN&keywords=samsung&qid=1646432550&sprefix=samsun%2Caps%2C189&sr=8-17'
+  },
+  {
+    id: 11,
+    name: 'Samsung Galaxy S21',
+    price: 772,
+    description: 'Processor : 2.9 Ghz \n Display : 173mm \n Camera : 108 MP \n Memory : 12 GB',
+    rating:4.4,
+    imageSrc: 'https://m.media-amazon.com/images/I/81u8oHzGLmL._AC_SL1500_.jpg',
+    amazonLink: 'https://www.amazon.de/-/en/Samsung-Galaxy-Smartphone-Phantom-Android/dp/B08QX85YKM/ref=sr_1_17?crid=2ZF9UC4U7J8EN&keywords=samsung&qid=1646432550&sprefix=samsun%2Caps%2C189&sr=8-17'
   }
 ];
 
